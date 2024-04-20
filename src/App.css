@@ -1,5 +1,19 @@
+#teleport {
+  height: 0px;
+}
+
+#container {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
 #essay-block {
   background-color: aqua;
+  height: 1000px;
+}
+
+#citation-block {
+  background-color: magenta;
   height: 1000px;
 }
 
@@ -7,6 +21,22 @@
   height: 600px;
 }
 
-#teleport {
-  height: 0px;
+#changedisplay {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  height: 25px;
+  margin-right: 0;
+  margin-left: auto;
+  display: block;
+  background-color: rgba(0,0,0,0);
+  border-color: rgba(0,0,0,0);
+}
+#changedisplay:hover {
+  color: grey;
+  border-bottom-color: grey;
+}
+
+#changedisplay:active {
+  color: #d0d0d0;
+  border-bottom-color: #d0d0d0;
 }

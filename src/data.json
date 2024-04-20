@@ -1,74 +1,84 @@
 {
     "photos": [
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": true
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": true
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": true
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         },
         {
-            "name": "photo 1",
+            "filename": "photo 1",
             "orientation": 0,
             "color": "#fdf183",
             "statement": "lorem ipsum, 250ish words",
-            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>"
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
         }
     ]
 }

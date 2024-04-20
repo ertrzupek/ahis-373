@@ -4,56 +4,62 @@ import './App.css';
 import d from './data.json';
 
 const Photo = (props) => {
-    var hex = "#" + Math.floor(Math.random()*16777215).toString(16);
-    if(props.color) hex = "#" + props.color;
+    const hex = props.item.color;
     return(
-        <div className="photo" style={{backgroundColor: hex}}>photo: {props.name} ({hex})</div>
+        <div className="photo" style={{display: props.disp, backgroundColor: hex}} >
+            photo: {props.item.filename} ({hex})
+            <div className="content" dangerouslySetInnerHTML={{__html: props.item.id}}></div>
+        </div>
     );
 }
 
-const Essay = () => {
+const Essay = (props) => {
     return(
-        <div id="essay-block">
+        <div id="essay-block" style={{display: props.disp}}>
             essay!
+        </div>    
+    );
+}
+
+const Citations = (props) => {
+    return(
+        <div id="citation-block" style={{display: props.disp}}>
+            citations!
         </div>    
     );
 }
 
 const Teleport = () => {
     return(
-        <div id="teleport">teleport</div>
+        <div id="teleport"></div>
     );
 }
 
 const App = () => {
-    const [data, setData] = React.useState([]);
+    const [data, setData] = React.useState([]); //writing, citations, button text vv
+    const [display, setDisplay] = React.useState(["block", "none", "citations"]);
     React.useEffect(() => {
         setData(d.photos);
     }, []);
-    console.log(data);
+    //console.log(data);
     const teleport = document.getElementById('teleport');
     const handleScroll = (e) => {
-        //console.log("current top? " + document.getElementById("photodiv").scrollTop);
-        const offsets = teleport.getBoundingClientRect();
-        const top = offsets.top;
-        //console.log("top: " + top);
-        if(top < 0) {document.getElementById("photodiv").scrollTop = 1000;}
-
+        const top = teleport.getBoundingClientRect().top;
+        if(top < 0) {document.getElementById("container").scrollTop = 1025;}
     };
-    
-    
+    const changeDisplay = (e) => {
+        e.preventDefault();
+        const text = (display[2] === "citations") ? "exhibition" : "citations";
+        setDisplay([display[1], display[0], text]);
+    }
     return (
-        <div id="photodiv" style={{height: "98.5vh", overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
-            <Essay/>
-            {/*three above, three below*/}
-            <Photo key= {1} item = {"p1"} color = "abc123"/>
-            <Photo key= {2} name = {"p2"} color = "fdf183"/>
-            <Photo key= {3} name = {"p3"} color = "fdadaa"/>
-            {data.map((item,i) => {return(<Photo key= {i+3} item = {item}/>)})}
+        <div id="container" style={{height: "98.5vh", overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
+            <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
+            <Citations disp = {display[1]}/>
+            <Essay disp = {display[0]}/>
+            {data.map((item,i) => {return(<Photo key= {i} item = {item} disp = {display[0]}/>)})}
             <Teleport/>
-            <Photo key= {11} name = {"p1"} color = "abc123"/>
-            <Photo key= {12} name = {"p2"} color = "fdf183"/>
-            <Photo key= {13} name = {"p3"} color = "fdadaa"/>
+            {data.map((item,i) => {if(item.duplicated) {return(<Photo key= {i+10} item = {item} disp = {display[0]}/>)}else{return(<div key= {i+10}></div>)}})}
         </div>
     );
 }
