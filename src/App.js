@@ -39,7 +39,7 @@ const Photo = (props) => {
 const Essay = (props) => {
     return(
         <div id="essay-block" style={{display: props.disp}}>
-    <p class="c18"><span class="c4">Paul Pfeiffer&rsquo;s Masterful Social Commentary Is Not About the Art</span></p>
+    <p class="c18"><h1>Paul Pfeiffer&rsquo;s Masterful Social Commentary Is Not About the Art</h1></p>
     <p class="c10"><span class="c0">Prologue to the Story of the Birth of Freedom</span><span class="c1">&nbsp;by Paul
             Pfeiffer, currently installed at MOCA Geffen, asks viewers to contemplate themes of fame, image, and sports
             culture. Pfieffer is an artist who is mainly known for manipulating found footage, editing archival photos,
@@ -55,8 +55,7 @@ const Essay = (props) => {
             clockwise - see appendix for the exhibit&rsquo;s floor plan). But, the suggestion of a &ldquo;correct&rdquo;
             viewing order indicates that a story is built upon through each room, and requires in-person viewing to
             understand what Pfeiffer is trying to say.</span></p>
-    <p class="c10"><span class="c4">The first space</span><sup><a href="#cmnt1" id="cmnt_ref1">[a]</a></sup><span
-            class="c4">&nbsp;I&rsquo;d like to discuss from the exhibit is the one holding </span><span class="c0">The
+    <p class="c10"><span class="c4">The first space I&rsquo;d like to discuss from the exhibit is the one holding </span><span class="c0">The
             Saints</span><span class="c1">&nbsp;(2007, room O). It is a massive white room with a ring of speakers,
             playing out the audio from the 1966 World Cup match between England and West Germany. The overly intense
             crowd noises, elevated from the number of speakers and echo of the room, play with the listener&rsquo;s
@@ -132,7 +131,7 @@ const Citations = (props) => {
 
 const Teleport = () => {
     return(
-        <div id="teleport">asdasda</div>
+        <div id="teleport"></div>
     );
 }
 
