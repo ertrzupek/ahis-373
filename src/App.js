@@ -5,12 +5,35 @@ import d from './data.json';
 
 const Photo = (props) => {
     const hex = props.item.color;
+    var align;
+    if(props.item.orientation === 0) {align = "left";}
+    else if(props.item.orientation === 2) {align = "right";}
+    else if(props.item.orientation === 1) {align = "center";}
+    if(props.item.orientation === 0) {
+        return(
+            <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
+                <div style={{textAlign: align}}>
+                    <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
+                    <span dangerouslySetInnerHTML={{__html: props.item.statement}}></span>
+                </div>
+                <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+            </div>
+    );} else if (props.item.orientation === 1) {
+        return (
+            <div className="photo-block" style={{display: props.disp, backgroundColor: hex, textAlign: align}}>
+                <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
+                <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+            </div>
+    );} else {
     return(
-        <div className="photo" style={{display: props.disp, backgroundColor: hex}} >
-            photo: {props.item.filename} ({hex})
-            <div className="content" dangerouslySetInnerHTML={{__html: props.item.id}}></div>
+        <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
+            <div style={{textAlign: align}}>
+                <span dangerouslySetInnerHTML={{__html: props.item.statement}}></span>
+                <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
+            </div>
+            <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
         </div>
-    );
+    );}
 }
 
 const Essay = (props) => {

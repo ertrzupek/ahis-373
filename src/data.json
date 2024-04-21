@@ -1,82 +1,122 @@
 {
     "photos": [
         {
-            "filename": "photo 1",
+            "filename": "1 baby.jpg",
             "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu. ",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": true
         },
         {
-            "filename": "photo 1",
-            "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "filename": "1a baby.jpg",
+            "orientation": 1,
+            "color": "#ffffff",
+            "statement": "",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": true
         },
         {
-            "filename": "photo 1",
-            "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "filename": "2 woman.png",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu. ",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": true
         },
         {
-            "filename": "photo 1",
+            "filename": "2a woman.jpg",
+            "orientation": 1,
+            "color": "#ffffff",
+            "statement": "",
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": true
+        },
+        {
+            "filename": "3 mother son.jpg",
             "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu. , 250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
-            "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "filename": "3a mother son.jpg",
+            "orientation": 1,
+            "color": "#ffffff",
+            "statement": "",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
-            "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "filename": "4 activist coffin.jpg",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
+            "filename": "5 hand in hand.png",
             "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
-            "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "filename": "6 demo dw.png",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
+            "filename": "7 silence death poster.jpg",
             "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         },
         {
-            "filename": "photo 1",
+            "filename": "8 ryan white.jpg",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
+        },
+        {
+            "filename": "9 blind man piano.jpg",
             "orientation": 0,
-            "color": "#fdf183",
-            "statement": "lorem ipsum, 250ish words",
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
+        },
+        {
+            "filename": "10 john and john.png",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
+        },
+        {
+            "filename": "11 cookie and vittorio.jpg",
+            "orientation": 0,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
+            "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
+            "duplicated": false
+        },
+        {
+            "filename": "12 cookie vittorio funeral.jpg",
+            "orientation": 2,
+            "color": "#ffffff",
+            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec et odio pellentesque diam volutpat commodo. In ornare quam viverra orci sagittis eu. Magna fermentum iaculis eu non diam phasellus. Sit amet dictum sit amet justo. Dui nunc mattis enim ut tellus elementum sagittis vitae. Facilisi etiam dignissim diam quis. In eu mi bibendum neque. Purus gravida quis blandit turpis cursus in hac habitasse. Arcu dui vivamus arcu felis. Sed elementum tempus egestas sed sed. Quam pellentesque nec nam aliquam sem et tortor. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Egestas diam in arcu cursus euismod. Turpis in eu mi bibendum. Consequat mauris nunc congue nisi vitae suscipit tellus. At auctor urna nunc id cursus metus aliquam eleifend mi. Cras sed felis eget velit aliquet sagittis id. At tellus at urna condimentum mattis. Non arcu risus quis varius quam. Dignissim sodales ut eu sem. Nibh praesent tristique magna sit. Aliquet bibendum enim facilisis gravida. Risus ultricies tristique nulla aliquet enim tortor. Varius duis at consectetur lorem. Sagittis nisl rhoncus mattis rhoncus urna neque. Malesuada bibendum arcu vitae elementum. Purus in mollis nunc sed id semper. Eu sem integer vitae justo eget magna. Eget mauris pharetra et ultrices neque. Enim ut sem viverra aliquet eget sit amet. Turpis tincidunt id aliquet risus. Pharetra convallis posuere morbi leo. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Convallis posuere morbi leo urna molestie at elementum eu.  250ish words",
             "id": "Billy Howard, Baby T, Atlanta, 1987. <i>Epitaphs for the Living by Billy Howard.</i>",
             "duplicated": false
         }

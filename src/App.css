@@ -17,8 +17,18 @@
   height: 1000px;
 }
 
+.photo-block {
+  padding: 50px 50px 50px 50px;
+}
+
 .photo {
-  height: 600px;
+  height: 80vh;
+}
+
+#container span {
+  display: inline-block;
+  width: 30vw;
+  padding: 50px 50px 50px 50px;
 }
 
 #changedisplay {
