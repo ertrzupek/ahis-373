@@ -28,10 +28,8 @@ const Photo = (props) => {
     return(
         <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
             <div className="image-grid" style={{gridTemplateColumns: "2fr 1fr"}}>
-
                 <div style={{padding: "50px"}} dangerouslySetInnerHTML={{__html: props.item.statement}}></div>
                 <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle", textAlign: "right"}} className="photo" alt = ":("></img>
-                
             </div>
             <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
         </div>
@@ -78,7 +76,7 @@ const App = () => {
         setDisplay([display[1], display[0], text]);
     }
     return (
-        <div id="container" style={{height: "98.5vh", overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
+        <div id="container" style={{overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
             <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
             <Citations disp = {display[1]}/>
             <Essay disp = {display[0]}/>

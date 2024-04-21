@@ -2,9 +2,14 @@
   height: 0px;
 }
 
+body {
+  overflow: hidden;
+}
+
 #container {
   font-family: 'Times New Roman', Times, serif;
   font-size: medium;
+  height: 98.4vh;
 }
 
 #essay-block {
