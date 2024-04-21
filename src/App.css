@@ -13,12 +13,11 @@ body {
 }
 
 #essay-block {
-  padding: 0px 500px 50px 500px;
+  padding: 0px 20vw 50px 20vw;
 }
 
 #citation-block {
-  padding-left: 800px;
-  padding-right: 800px;
+  padding: 0px 500px 0px 500px;
 }
 
 .photo-block {

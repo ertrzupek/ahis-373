@@ -155,7 +155,7 @@ const App = () => {
         setDisplay([display[1], display[0], text]);
     }
     return (
-        <div id="container" style={{overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
+        <div id="container" style={{overflowY: "scroll", }} onScroll={handleScroll}>
             <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
             <Citations disp = {display[1]}/>
             <Essay disp = {display[0]}/>
