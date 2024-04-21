@@ -18,17 +18,18 @@
 }
 
 .photo-block {
-  padding: 50px 50px 50px 50px;
+  padding: 50px;
+}
+
+.image-grid {
+  display:grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap:5px;
 }
 
 .photo {
-  height: 50vh;
-}
-
-#container span {
-  display: inline-block;
-  width: 60vw;
-  padding: 50px 50px 50px 50px;
+  height: 60vh;
 }
 
 #changedisplay {
