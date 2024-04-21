@@ -132,7 +132,7 @@ const Citations = (props) => {
 
 const Teleport = () => {
     return(
-        <div id="teleport"></div>
+        <div id="teleport">asdasda</div>
     );
 }
 
@@ -147,7 +147,7 @@ const App = () => {
     const handleScroll = (e) => {
         const top = teleport.getBoundingClientRect().top;
         const essayheight = document.getElementById('essay-block').offsetHeight
-        if(top < 0) {document.getElementById("container").scrollTop = essayheight + 50;}
+        if(top < 0) {document.getElementById("container").scrollTop = essayheight +50;}
     };
     const changeDisplay = (e) => {
         e.preventDefault();
@@ -155,7 +155,7 @@ const App = () => {
         setDisplay([display[1], display[0], text]);
     }
     return (
-        <div id="container" style={{overflowY: "scroll", }} onScroll={handleScroll}>
+        <div id="container" style={{overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
             <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
             <Citations disp = {display[1]}/>
             <Essay disp = {display[0]}/>
