@@ -12,7 +12,7 @@ const Photo = (props) => {
     if(props.item.orientation === 0) {
         return(
             <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
-                <div className="image-grid"style={{textAlign: align}}>
+                <div className="image-grid" style={{gridTemplateColumns: "1fr 3fr 1fr"}}>
                     <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
                     <div style={{padding: "50px"}} dangerouslySetInnerHTML={{__html: props.item.statement}}></div>
                 </div>
@@ -27,7 +27,7 @@ const Photo = (props) => {
     );} else {
     return(
         <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
-            <div className="image-grid">
+            <div className="image-grid" style={{gridTemplateColumns: "1fr 3fr 1fr"}}>
                 <div></div>
                 <div style={{padding: "50px"}} dangerouslySetInnerHTML={{__html: props.item.statement}}></div>
                 <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle", textAlign: "right"}} className="photo" alt = ":("></img>
