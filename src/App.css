@@ -1,13 +1,13 @@
-#teleport {
-  height: 0px;
-}
-
 body {
   overflow: hidden;
 }
 
+#teleport {
+  height: 0px;
+}
+
 #container {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman';
   font-size: medium;
   height: 98.4vh;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 #citation-block {
-  padding: 0px 500px 0px 500px;
+  padding: 0px 20vw 50px 20vw;
 }
 
 .photo-block {
@@ -35,7 +35,7 @@ body {
 }
 
 #changedisplay {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman';
   font-size: medium;
   height: 25px;
   margin-right: 0;
@@ -44,6 +44,7 @@ body {
   background-color: rgba(0,0,0,0);
   border-color: rgba(0,0,0,0);
 }
+
 #changedisplay:hover {
   color: grey;
   border-bottom-color: grey;
