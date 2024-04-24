@@ -6,10 +6,10 @@ import d from './data.json';
 const Photo = (props) => {
     const hex = props.item.color;
     var align;
-    if(props.item.orientation === 0) {align = "left";}
-    else if(props.item.orientation === 2) {align = "right";}
+    if(props.item.orientation === 2) {align = "left";}
+    else if(props.item.orientation === 0) {align = "right";}
     else if(props.item.orientation === 1) {align = "center";}
-    if(props.item.orientation === 0) {
+    if(props.item.orientation === 2) {
         return(
             <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
                 <div className="image-grid" style={{gridTemplateColumns: "1fr 2fr"}}>
