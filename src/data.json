@@ -25,7 +25,7 @@
             "duplicated": true
         },
         {
-            "filename": "3 activist coffin.jpg",
+            "filename": "3 protest funeral.jpg",
             "orientation": 0,
             "color": "#ffffff",
             "statement": "",
@@ -33,27 +33,27 @@
             "duplicated": false
         },
         {
-            "filename": "4 riot stickers.jpg",
+            "filename": "4 conference.png",
             "orientation": 2,
-            "color": "#ffffff",
-            "statement": "",
-            "id": "<span>Donna Binder,&nbsp;</span><em><span>ACT UP travels to Atlanta during DNC</span></em><span>, July 17-21, 1988. Photograph. David Zwirner&rsquo;s&nbsp;</span><em><span>More Life</span></em><span>&nbsp;exhibition.</span>",
-            "duplicated": false
-        },
-        {
-            "filename": "5 conference.png",
-            "orientation": 0,
             "color": "#ffffff",
             "statement": "",
             "id": "<span>t. l. litt,&nbsp;</span><em><span>ACT UP New York takes the stage at the opening ceremonies of the Fifth International AIDS Conference</span></em><span>, Montreal, June 4, 1989. Photograph. https://www.tllittphotography.com.</span>",
             "duplicated": false
         },
         {
-            "filename": "5a conference.png",
+            "filename": "4a conference.png",
             "orientation": 1,
             "color": "#ffffff",
             "statement": "",
             "id": "<span><span>t. l. litt,&nbsp;</span><em><span>Conyers Thompson of ACT UP speaking at the opening ceremonies of the Fifth International AIDS Conference</span></em><span>, Montreal, June 4, 1989. Photograph. https://www.tllittphotography.com.</span></span>",
+            "duplicated": false
+        },
+        {
+            "filename": "5 riot stickers.jpg",
+            "orientation": 0,
+            "color": "#ffffff",
+            "statement": "",
+            "id": "<span>Donna Binder,&nbsp;</span><em><span>ACT UP travels to Atlanta during DNC</span></em><span>, July 17-21, 1988. Photograph. David Zwirner&rsquo;s&nbsp;</span><em><span>More Life</span></em><span>&nbsp;exhibition.</span>",
             "duplicated": false
         },
         {
@@ -65,7 +65,7 @@
             "duplicated": false
         },
         {
-            "filename": "7 david death.png",
+            "filename": "6a david death.png",
             "orientation": 1,
             "color": "#ffffff",
             "statement": "",
@@ -73,7 +73,7 @@
             "duplicated": false
         },
         {
-            "filename": "8 ryan white.png",
+            "filename": "7 ryan white.png",
             "orientation": 0,
             "color": "#ffffff",
             "statement": "",
@@ -81,7 +81,7 @@
             "duplicated": false
         },
         {
-            "filename": "9 blind man piano.jpg",
+            "filename": "8 blind man piano.jpg",
             "orientation": 2,
             "color": "#ffffff",
             "statement": "",
@@ -89,7 +89,7 @@
             "duplicated": false
         },
         {
-            "filename": "9a baby.jpg",
+            "filename": "8a baby.jpg",
             "orientation": 1,
             "color": "#ffffff",
             "statement": "",
@@ -97,7 +97,7 @@
             "duplicated": false
         },
         {
-            "filename": "10 john and john.png",
+            "filename": "9 john and john.png",
             "orientation": 0,
             "color": "#ffffff",
             "statement": "",
@@ -105,7 +105,7 @@
             "duplicated": false
         },
         {
-            "filename": "11 cookie and vittorio.jpg",
+            "filename": "10 cookie and vittorio.jpg",
             "orientation": 2,
             "color": "#ffffff",
             "statement": "",
@@ -113,7 +113,7 @@
             "duplicated": false
         },
         {
-            "filename": "12 cookie vittorio funeral.jpg",
+            "filename": "10a cookie vittorio funeral.jpg",
             "orientation": 1,
             "color": "#ffffff",
             "statement": "",
