@@ -14,10 +14,14 @@ const Photo = (props) => {
         return(
             <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
                 <div className="image-grid" style={{gridTemplateColumns: "1fr 2fr"}}>
-                    <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
+                    <div>
+                        <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle"}} className="photo" alt = ":("></img>
+                        <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+                    </div>
+                    
                     <div style={{padding: "50px"}} dangerouslySetInnerHTML={{__html: statement}}></div>
                 </div>
-                <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+                
             </div>
     );} else if (props.item.orientation === 1) {
         return (
@@ -30,9 +34,13 @@ const Photo = (props) => {
         <div className="photo-block" style={{display: props.disp, backgroundColor: hex}}>
             <div className="image-grid" style={{gridTemplateColumns: "2fr 1fr"}}>
                 <div style={{padding: "50px"}} dangerouslySetInnerHTML={{__html: statement}}></div>
+                <div>
                 <img src={require(`./photos/${props.item.filename}`)} style={{verticalAlign: "middle", textAlign: "right"}} className="photo" alt = ":("></img>
+                    <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+                </div>
+                
             </div>
-            <div dangerouslySetInnerHTML={{__html: props.item.id}} style={{textAlign: align}}></div>
+            
         </div>
     );}
 }
