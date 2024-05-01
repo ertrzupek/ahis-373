@@ -369,14 +369,17 @@ const App = () => {
         setDisplay([display[1], display[0], text]);
     }
     return (
-        <div id="container" style={{overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
-            <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
-            <Citations disp = {display[1]}/>
-            <Essay disp = {display[0]}/>
-            <Footnotes disp  = {display[0]}/>
-            {data.map((item,i) => {return(<Photo key= {i} item = {item} disp = {display[0]} dupe = {false}/>)})}
-            <Teleport/>
-            {data.map((item,i) => {if(item.duplicated) {return(<Photo key= {i+10} item = {item} disp = {display[0]} dupe = {true}/>)}else{return(<div key= {i+10}></div>)}})}
+        <div>
+            <div id="container" style={{overflowY: "scroll", scrollbarWidth: "none"}} onScroll={handleScroll}>
+                <button id="changedisplay" onClick={changeDisplay}>display {display[2]}</button>
+                <Citations disp = {display[1]}/>
+                <Essay disp = {display[0]}/>
+                <Footnotes disp  = {display[0]}/>
+                {data.map((item,i) => {return(<Photo key= {i} item = {item} disp = {display[0]} dupe = {false}/>)})}
+                <Teleport/>
+                {data.map((item,i) => {if(item.duplicated) {return(<Photo key= {i+10} item = {item} disp = {display[0]} dupe = {true}/>)}else{return(<div key= {i+10}></div>)}})}
+            </div>
+            <div id="toosmall">sorry, your device is too small to display this page's contents :(</div>
         </div>
     );
 }

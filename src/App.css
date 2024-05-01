@@ -12,6 +12,12 @@ body {
   height: 98.4vh;
 }
 
+#toosmall {
+  display: none;
+  padding: 50px 50px 50px 50px;
+  margin: auto;
+}
+
 #essay-block {
   padding: 0px 25vw 50px 25vw;
   margin:auto;
@@ -42,6 +48,13 @@ body {
 .photo {
   width: 40vw;
 }
+
+@media only screen and (max-width:1100px) {
+  #container { display: none; }
+  #toosmall { display: block; }
+}
+
+
 
 /*exhibition/bibliography button*/
 #changedisplay {
