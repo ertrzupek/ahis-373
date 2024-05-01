@@ -272,7 +272,7 @@ const Citations = (props) => {
             <p class="c2 c25 c29"><span class="c1">American Masters, PBS, March 29, 2023.</span></p>
             <p class="c2 c25 c29"><span
                     class="c1">https://www.pbs.org/wnet/americanmasters/the-untold-story-of-women-and-indigenous-c</span></p>
-            <p class="c2 c25 c29"><span>ommunities-in-the-aids-crisis</span><span class="c1">/26459/.</span></p>
+            <p class="c2 c25 c29 c1"><span>ommunities-in-the-aids-crisis</span><span class="c1">/26459/.</span></p>
             <p class="c0"><span class="c1"></span></p>
             <p class="c2 c25"><span class="c1">Engelmann, Lukas. &ldquo;Photographing AIDS: On Capturing a Disease in Pictures
                     of People with</span></p>
