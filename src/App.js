@@ -41,7 +41,7 @@ const Essay = (props) => {
     return(
         <div id="essay-block" style={{display: props.disp}}>
             <p class="title"><i>Unseen, Untouched</i>: Honoring the Hidden Records of the AIDS Crisis</p>
-            <p class="c12">This exhibition, titled <span class="c6 c8">Unseen, Untouched</span>, pulls together many of the
+            <p class="c1">This exhibition, titled <span class="c6 c8">Unseen, Untouched</span>, pulls together many of the
                     lesser-known photos from the height of the AIDS epidemic in order to reframe the common perceptions of
                     people living through the crisis. The most popular, recognizable images from the
                     epidemic are the ones featuring frail bodies, hospital beds, and weeping families. Most of the photography coming out of the height of the crisis
@@ -54,7 +54,7 @@ const Essay = (props) => {
                     attempts to gather various personal photos and lesser-known journalistic images from the height of the media
                     coverage of the AIDS crisis - from 1985 to 1995 - to paint a larger picture of the real people affected by
                     the epidemic, and to display the sadness, anger, and joy of those living in this tumultuous time.</p>
-            <p class="c12">The AIDS crisis was a period in the late 1980s and '90s of
+            <p class="c1">The AIDS crisis was a period in the late 1980s and '90s of
                     mass hysteria and fear over HIV (human immunodeficiency viruses) and the subsequent disease, AIDS (acquired
                     immunodeficiency syndrome). HIV is mainly transmitted by sharing needles or having unprotected sex with an
                     infected person, but also from blood transfusions or from mother to child. It causes the infected person to
@@ -71,7 +71,7 @@ const Essay = (props) => {
                     previous years.<sup class="c6"><a href="#ftnt1"
                         id="ftnt_ref1">[1]</a></sup>At this point, it could be said that the
                     &ldquo;crisis&rdquo; was over, though the pandemic itself has certainly never ended.</p>
-            <p class="c12">Photography&rsquo;s involvement
+            <p class="c1">Photography&rsquo;s involvement
                     in the AIDS epidemic, as stated previously, has largely been about documenting the medical phenomenon and
                     the developments of the disease, as well as political activism posters to spread awareness. Nicholas Nixon, 
                     for example, had an exhibition installed at MoMA in 1988
@@ -85,7 +85,7 @@ const Essay = (props) => {
                     protest discrimination, commenting on the pope and the Catholic church with an image of a penis, and
                     edits of Ronald Reagan's face to speak on the government's inaction.&nbsp;They all have a very distinct aesthetic and are some of the most recognizable symbols of
                     the crisis and the fight for visibility.<sup class="c6"><a href="#ftnt4" id="ftnt_ref4">[4]</a></sup></p>
-            <p class="c12">This exhibition hopes to combat
+            <p class="c1">This exhibition hopes to combat
                     these stereotypes of photography during the AIDS crisis, as well as challenge common perceptions of the
                     people themselves as subjects of the photos. It will do this from many different angles. First, the idea
                     that only gay men could get AIDS was incredibly prevalent during the height of the crisis&rsquo;s media
@@ -103,7 +103,7 @@ const Essay = (props) => {
                     photography during the time was the dying patient, as mentioned above. While the AIDS epidemic garnered much
                     fear, hatred, and sadness through the late '80s 
                     and '90s, there were also beautiful moments that deserve to be appreciated.</p>
-            <p class="c12"><span class="c8">Unseen, Untouched</span>&nbsp;will have images of the
+            <p class="c1"><span class="c8">Unseen, Untouched</span>&nbsp;will have images of the
                     implication of death, those whose passing is rarely acknowledged in relation to AIDS. It will display photos
                     of anger, rage, and all the emotions the government and media refused to listen to. It will also include
                     snapshots of the good moments, the happy moments, to push the viewer to see beyond the disease and

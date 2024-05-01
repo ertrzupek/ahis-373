@@ -15,7 +15,6 @@ body {
 #essay-block {
   padding: 0px 25vw 50px 25vw;
   margin:auto;
-  max-width: fit-content;
 }
 
 #footnote-block {
@@ -41,7 +40,7 @@ body {
 }
 
 .photo {
-  width: 30vw;
+  width: 40vw;
 }
 
 /*exhibition/bibliography button*/
@@ -88,11 +87,22 @@ a:active {
 p {
   margin: 0;
   color: #000000;
-  font-size: 12pt;
+  font-size: 10pt;
   font-family: "Times New Roman"
 }
+/*paragraph class for initial writing*/
+.c1 {
+  padding-top: 0pt;
+  text-indent: 36pt;
+  padding-bottom: 0pt;
+  line-height: 2.0;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+  font-size: 12pt;
+}
 
-/*paragraph class for essay*/
+/*paragraph class for blurbs*/
 .c12 {
   padding-top: 0pt;
   text-indent: 36pt;
@@ -100,7 +110,7 @@ p {
   line-height: 2.0;
   orphans: 2;
   widows: 2;
-  text-align: left
+  text-align: left;
 }
 
 /*italics*/
